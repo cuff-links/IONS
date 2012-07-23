@@ -1,0 +1,2 @@
+SELECT referral.Client# AS 'Referring Client#', referral.FirstName + ' ' +   referral.LastName AS 'Referrer Name' , client.Client# as 'Referral Client#', client.FirstName + ' ' + client.LastName as 'Referral Name', client.DateEst as 'Date Referred'   FROM dbo.CLIENT client INNER JOIN dbo.CLIENT referral ON 
+client.Referral# = referral.Client#

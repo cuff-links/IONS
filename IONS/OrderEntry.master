@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="True"
+    Inherits="IONS.OrderEntryMaster" CodeBehind="OrderEntry.master.cs" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <asp:ContentPlaceHolder ID="headOE" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphMaster" runat="Server">
+    <div id="rightColumnPanel">
+        <h3 class="rightColumnHeader">
+            Positive Charges
+        </h3>
+        <telerik:RadRotator CssClass="rotateFeed" Height="500" ID="rotateFeed" runat="server"
+            ScrollDirection="Down" ItemWidth="120" ItemHeight="500" FrameDuration="10000"
+            PauseOnMouseOver="False" ForeColor="White">
+            <ItemTemplate>
+                <div>
+                    <h4>
+                        <asp:Label ID="lblRotatorTitle" runat="server" Text='<%# XPath("title") %>' />
+                    </h4>
+                    <p>
+                        <asp:Label ID="lblRotator" runat="server" Text='<%# XPath("message") %>' />
+                    </p>
+                    <br />
+                </div>
+            </ItemTemplate>
+        </telerik:RadRotator>
+    </div>
+    <asp:ContentPlaceHolder ID="cphOrderEntry" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

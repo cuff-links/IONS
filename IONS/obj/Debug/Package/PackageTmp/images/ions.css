@@ -1,0 +1,309 @@
+﻿.cellCustomerRow1 td
+{
+    margin-left: 1%;
+    margin-left: 1%;
+}
+td.rowMargin
+{
+    margin-bottom: 10px;
+}
+.alignRight
+{
+    text-align: right;
+}
+
+#leftColumn
+{
+    float: left;
+    margin-left: 20px;
+    width: 150px;
+    text-align: right;
+    margin-top: 4%;
+}
+#rightColumn
+{
+    height: 550px;
+    width: 1000px;
+    float: left;
+    background: url('rightColumnFields.png') no-repeat;
+    background-size: 100%;
+    margin-top: 1%;
+}
+#leftColumn ul li
+{
+    list-style: none;
+    height: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+#CustomerSearchListView
+{
+    width: 750px;
+}
+.current
+{
+    font-weight: bolder;
+}
+.inActiveTab
+{
+    background: url('tabInactive.png') no-repeat;
+    color: #45638B;
+    text-decoration: none;
+}
+.inActiveTab a
+{
+    color: #45638B;
+    text-decoration: none;
+}
+.inActiveTab:hover
+{
+    background: url('tabActive.png') no-repeat;
+    color: #ffffff;
+    text-decoration: none;
+}
+.inActiveTab:hover a
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+#wrapper
+{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+#header
+{
+    background: url('topBand.gif') no-repeat transparent;
+    background-size: 100%;
+    opacity: 0.6;
+    filter: alpha(opacity = 50);
+    min-width: 1024px;
+    width: 100%;
+    height: 40px;
+}
+#customerInfo
+{
+    background: url('customerDivBg.png') no-repeat;
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+#productSelect
+{
+    background: url('customerDivBg.png') no-repeat;
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+#orderDetails
+{
+    background: url('customerDivBg.png') no-repeat;
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+#orderRecap
+{
+    background: url('customerDivBg.png') no-repeat;
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+#rightColumnPanel
+{
+    float: right;
+    width: 150px;
+    height: 500px;
+    background: url('rightColumnPanel.png') no-repeat;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+#adminButtons
+{
+    margin-left: 40%;
+    width: 260px;
+    float: left;
+}
+div.headerTop
+{
+    width: 32%;
+    float: left;
+    text-align: center;
+}
+.centered
+{
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    float: left;
+}
+.marginTop50
+{
+    margin-top: 50px;
+}
+img.bg
+{
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px; /* Set up proportionate scaling */
+    width: 100%;
+    height: auto; /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@media screen and (max-width: 1024px)
+{
+    /* Specific to this particular image */
+    img.bg
+    {
+        left: 50%;
+        margin-left: -512px; /* 50% */
+    }
+}
+.centerPicture
+{
+    width: 60%;
+    min-width: 500px;
+    margin-left: 20%;
+    margin-right: 20%;
+    float: left;
+}
+.loginDiv
+{
+    margin-left: 40%;
+    float: left;
+}
+.textAlignCenter
+{
+    text-align: center;
+}
+.textAlignLeft
+{
+    text-align: left;
+}
+#customerSearchGrid
+{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 48px;
+    width: 799px;
+}
+#customerOverview
+{
+    margin-left: 15px;
+    width: 799px;
+}
+#orderOverview
+{
+    margin-left: 15px;
+    width: 799px;
+}
+div.overviewRow
+{
+    float: left;
+    width: 33%;
+    text-align: right;
+}
+h3.rightColumnHeader
+{
+    color: #77AAEE;
+    text-align: center;
+}
+.rotateFeed
+{
+    margin-left: 15px;
+    text-align: center;
+}
+#orderSearchGrid
+{
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 799px;
+}
+#orderOverview
+{
+    margin-top: 20px;
+}
+.selectProducts
+{
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    width: 699px;
+}
+.orderEntryHeading
+{
+    color: #ffffff;
+    text-align: center;
+}
+label.orderButtons
+{
+    color: #45638B;
+}
+td.createUserTableLabel
+{
+    color: #45638B;
+    text-align: right;
+    width: 130px;
+}
+.floatRight
+{
+    float: right;
+}
+td.orderDetails
+{
+    width: 33%;
+    text-align: right;
+    padding-right: 30px;
+}
+.marginLeft15
+{
+    margin-left: 15px;
+}
+.halfWidth
+{
+    width: 300px;
+}
+.marginTop30
+{
+    margin-top: 30px;
+}
+.reportDiv
+{
+    margin-top: 20px;
+    float: left;
+    margin-left: 75px;
+    background-image: url("reportDiv.png");
+    background-size: 100%;
+}
+textarea
+{
+    resize: none;
+}
+.helpTable
+{
+    border: 1px #45638B double;
+}
+#productTable
+{
+    overflow: scroll;
+    height: 375px;
+}

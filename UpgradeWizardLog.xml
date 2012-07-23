@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\IONS.csproj" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Admin.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Admin.aspx" />
+  <event action="Analyze" type="Success" name="Admin.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Admin.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\CustomerSearch.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\CustomerSearch.aspx" />
+  <event action="Analyze" type="Success" name="CustomerSearch.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\CustomerSearch.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\MasterPage.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\MasterPage.master" />
+  <event action="Analyze" type="Success" name="MasterPage.master" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\MasterPage.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.aspx" />
+  <event action="Analyze" type="Success" name="OrderEntry.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.master" />
+  <event action="Analyze" type="Success" name="OrderEntry.master" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderEntry.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderSearch.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderSearch.aspx" />
+  <event action="Analyze" type="Success" name="OrderSearch.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\OrderSearch.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Reports.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Reports.aspx" />
+  <event action="Analyze" type="Success" name="Reports.aspx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\Reports.aspx" />
+  <event action="Analyze" type="Success" name="SalesReport.resx" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\SalesReport.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\web.config" />
+  <event action="Analyze" type="Success" name="IONS" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\IONS.csproj" />
+  <event action="Analyze" type="Success" name="IONS" path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS.sln" />
+</log>

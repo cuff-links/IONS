@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\obj\Debug\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+  <dbFullSql path="E:\Programming\Visual_Studio_Projects\Projects\IONS\IONS\obj\Debug\AutoScripts\ConnectionString-Deployment_SchemaOnly.sql" Transacted="True" />
+</sitemanifest>

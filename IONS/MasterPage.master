@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="True" Inherits="IONS.MasterPage" CodeBehind="MasterPage.master.cs" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <title></title>
+    <link href="images/ions.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Scripts/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="Scripts/jquery-ui-1.8.21.custom.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" runat="server" HttpHandlerUrl="~/Telerik.Web.UI.WebResource.axd" />
+    <div>
+        <img class="bg" src="images/electron.jpg" alt="" />
+    </div>
+    <div id="header">
+        <div id="headerUserName" class="headerTop" style="text-align: left; padding-left: 20px;
+            padding-top: 8px;">
+            <asp:Label ID="lblLoggedUser" ForeColor="#45638B" runat="server" Text="" />
+        </div>
+        <div id="headerLogo" class="headerTop">
+            <img src="images/headerElectron.png" alt="Electron" />
+        </div>
+        <div id="headerCommands" class="headerTop" style="text-align: right; padding-top: 8px;">
+            <asp:HyperLink ID="linkAdmin" ForeColor="#45638B" NavigateUrl="Admin.aspx" runat="server">Administer</asp:HyperLink>
+            <asp:LinkButton ID="linkLogOut" CssClass="marginLeft15" ForeColor="#45638B" runat="server"
+                CausesValidation="False" OnClick="LinkLogOutClick">Log Out</asp:LinkButton>
+        </div>
+    </div>
+    <div id="wrapper">
+        <div id="leftColumn">
+            <ul id="ulMenu" runat="server">
+                <li id="tabClientSearch" class="inActiveTab">
+                    <br />
+                    <a id="aClientSearch" href="CustomerSearch.aspx" runat="server">Client Search</a></li>
+                <li id="tabOrderEntry" class="inActiveTab">
+                    <br />
+                    <a id="aOrderEntry" href="OrderEntry.aspx" runat="server">New Client </a></li>
+                <li id="tabOrderSearch" class="inActiveTab">
+                    <br />
+                    <a id="aOrderSearch" href="OrderSearch.aspx" runat="server">Order Search</a>
+                </li>
+                <li id="tabInvoices" class="inActiveTab">
+                    <br />
+                    <a id="aInvoices" href="Invoices.aspx" runat="server">Invoices</a></li>
+                <li id="tabReports" class="inActiveTab">
+                    <br />
+                    <a id="aReports" href="Reports.aspx" runat="server">Reports</a></li>
+                <li id="tabHelp" class="inActiveTab">
+                    <br />
+                    <a id="a1" href="Help.aspx" runat="server">Help/Support</a></li>
+            </ul>
+        </div>
+        <div id="rightColumn">
+            <asp:ContentPlaceHolder ID="cphMaster" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

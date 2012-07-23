@@ -1,0 +1,1 @@
+SELECT c.Client#, FirstName + ' ' + LastName AS ClientName, op.Order#, p.ProductID, p.Name, p. Price, p.Technology, DateEst  FROM dbo.CLIENT c INNER JOIN dbo.ORDERS o ON c.Client# = o.Client# INNER JOIN dbo.ORDEREDPRODUCT op ON o.Order# = op.Order# INNER JOIN dbo.PRODUCT p ON op.ProductID = p.ProductID ORDER BY  o.Order#
