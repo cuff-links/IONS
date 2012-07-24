@@ -1,0 +1,151 @@
+﻿<Products>
+  <Product>
+    <ProductID>BRLD1</ProductID>
+    <Name>Bear Powerful Thousand</Name>
+    <Description>1000 Minutes for $10. Nickel for overages.</Description>
+    <Price>10.00</Price>
+  </Product>
+  <Product>
+    <ProductID>BRPH1</ProductID>
+    <Name>Bear Package</Name>
+    <Description>This package is for the users that want a little more control of their telephony experience. Anonymous call rejection helps to deter unwanted solicitations from unpublished numbers.</Description>
+    <Features>CID, CW, 3-Way, ACR, RD, CF, VM</Features>
+    <Price>39.99</Price>
+  </Product>
+  <Product>
+    <ProductID>BRTV1</ProductID>
+    <Name>Bear Bonus Package</Name>
+    <Description>This is a package for those fond of viewing variety. This package will definitely have something for everyone in the family and several things that all can enjoy together.</Description>
+    <Features>299 Channels including 11 premium channels.</Features>
+    <Price>89.99</Price>
+  </Product>
+  <Product>
+    <ProductID>CBL40MB</ProductID>
+    <Name>40.0MB Bear Cable</Name>
+    <Description>High speed internet access through "cable" or coaxial lines. This is almost twice as fast as the Elephant Cable option and is good for homes with a wide array of internet enabled devices. Comes with free home networking.</Description>
+    <Features>40mpbs/5mbps</Features>
+    <Price>89.95</Price>
+  </Product>
+  <Product>
+    <ProductID>CHTH100MB</ProductID>
+    <Name>100.0MB Cheetah FiOs</Name>
+    <Description>While this solution is not one that everyone will partake of, those that do will not be able to use anything else. This connection would be able to run any of your household operations without a hitch. We even have a 6 month guarantee. If you are not satisfied with the speed of our Cheetah FiOs, we will give you a full refund of all 6 months.</Description>
+    <Features>100mpbs/10mpbs</Features>
+    <Price>149.95</Price>
+  </Product>
+  <Product>
+    <ProductID>CHTLD1</ProductID>
+    <Name>Cheetah Unlimited</Name>
+    <Description>Unlimited Calls</Description>
+    <Price>20.00</Price>
+  </Product>
+  <Product>
+    <ProductID>CHTPH1</ProductID>
+    <Name>Cheetah Bundle</Name>
+    <Description>This is the most comprehensive package with all available phone features. Find me -Follow me makes its appearance for the users that want to be able to be reached no matter what. You can have the phone ring simultaneously at several different numbers.</Description>
+    <Features>CID, CW, 3-WAY, ACR, RD, RC, CF, VM, FM-FM</Features>
+    <Price>44.99</Price>
+  </Product>
+  <Product>
+    <ProductID>CHTTV1</ProductID>
+    <Name>Cheetah Ultimate 500</Name>
+    <Description>This package is definitely for TV connoisseurs to enjoy. You must have a love for many programs to be able to handle all that this has to offer. It boasts a proud 500 channels of viewing joy that will have you satisfied no matter your taste in programming.</Description>
+    <Features>500 Channels including 21 premium channels.</Features>
+    <Price>109.99</Price>
+  </Product>
+  <Product>
+    <ProductID>ELE25MB</ProductID>
+    <Name>25.0MB Elephant Cable</Name>
+    <Description>High speed internet access through "cable" or coaxial lines. Offers higher speeds than all DSL options but the connetion is shared through the neighborhood and is subject to fluxuation.</Description>
+    <Features>25mbps/2mpbs</Features>
+    <Price>69.95</Price>
+  </Product>
+  <Product>
+    <ProductID>ELELD1</ProductID>
+    <Name>Elephant Mindful 200</Name>
+    <Description>200 Minutes for $7. 10 cents a minute for overages</Description>
+    <Price>7.00</Price>
+  </Product>
+  <Product>
+    <ProductID>ELEPH1</ProductID>
+    <Name>Elephant Package</Name>
+    <Description>This package is the most popular package. It comes with the 5 most used features in telephone history. You now have voicemail included to receive messsages.</Description>
+    <Features>CID, CW, 3-Way, CF, VM</Features>
+    <Price>29.99</Price>
+  </Product>
+  <Product>
+    <ProductID>ELETV1</ProductID>
+    <Name>Elephant Standard Package</Name>
+    <Description>This is by far the most popular package. Contains most of the popular viewing channels, specialty channels, and 3 premium channels. Best value!</Description>
+    <Features>135 Channels including 3 Premium Channels</Features>
+    <Price>69.99</Price>
+  </Product>
+  <Product>
+    <ProductID>FRG3MB</ProductID>
+    <Name>3.0MB Frog DSL</Name>
+    <Description>High Speed Internet access over a dedicated phone line. Does not tie up line while surfing the internet. Has higher speeds and less connection drops than dialup. </Description>
+    <Features>3.0mbps/768kbps</Features>
+    <Price>19.95</Price>
+  </Product>
+  <Product>
+    <ProductID>OSCH75MB</ProductID>
+    <Name>75.0MB Ostrich FiOs</Name>
+    <Description>High speed internet access through fiber optic lines. Far more powerful than the DSL and Cable options. Each fiber line is ran directly to the premise so there is no connection fluctuation. This service is well suited for home based businesses to run their operations as well as home based servers.</Description>
+    <Features>75mpbs/7.5mpbs</Features>
+    <Price>109.95</Price>
+  </Product>
+  <Product>
+    <ProductID>SNLDU</ProductID>
+    <Name>56K Snail Dial-up</Name>
+    <Description>Dial-up internet access using land-line. Most economic option for light internet users.</Description>
+    <Features>56kpbs/28kbps</Features>
+    <Price>9.95</Price>
+  </Product>
+  <Product>
+    <ProductID>SNLLD1</ProductID>
+    <Name>Snail Steady 30</Name>
+    <Description>30 Minutes for $1. 30 cents a minute for overages.</Description>
+    <Price>1.00</Price>
+  </Product>
+  <Product>
+    <ProductID>SNLPH1</ProductID>
+    <Name>Snail Basic Line</Name>
+    <Description>Basic telephone line with no features. Gives you a clear connection to the world. Most economic option for light users.</Description>
+    <Features>None</Features>
+    <Price>10.99</Price>
+  </Product>
+  <Product>
+    <ProductID>SNLTV1</ProductID>
+    <Name>Snail Economy Package</Name>
+    <Description>The basic package of channels to satisfy basic television needs. Most economic option for the light user.</Description>
+    <Features>35 Channels, 0 Premium Channels</Features>
+    <Price>19.99</Price>
+  </Product>
+  <Product>
+    <ProductID>SQRL10MB</ProductID>
+    <Name>10.0MB Squirrel DSL</Name>
+    <Description>High speed internet access over a dedicated phone line. Over 3 times faster than Frog DSL. Can be used for multiple devices around the home.</Description>
+    <Features>10mpbs/1.5mbps</Features>
+    <Price>39.95</Price>
+  </Product>
+  <Product>
+    <ProductID>SQRLD1</ProductID>
+    <Name>Squirrel Quick 60</Name>
+    <Description>60 Minutes for $4. 15 cents a minute for overages.</Description>
+    <Price>4.00</Price>
+  </Product>
+  <Product>
+    <ProductID>SQRLPH1</ProductID>
+    <Name>Squirrel Package</Name>
+    <Description>A convenient little package with the two most desired features. Caller ID and Call Waiting.</Description>
+    <Features>CID, CW</Features>
+    <Price>22.99</Price>
+  </Product>
+  <Product>
+    <ProductID>SQRLTV1</ProductID>
+    <Name>Squirrel Value Package </Name>
+    <Description>This is the more in depth programming package that has more family friendly viewing and options for specialty viewers.</Description>
+    <Features>70 Channels, 0 Premium Channels</Features>
+    <Price>39.99</Price>
+  </Product>
+</Products>
